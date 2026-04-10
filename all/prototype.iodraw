@@ -1,0 +1,190 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram id="prototype-library" name="图书管理平台原型">
+    <mxGraphModel dx="1207" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f2f4f7;strokeColor=#e0e0e0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="1000" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="main_title" value="图书管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#0056b3;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sec1_title" value="图书入库" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#0056b3;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="form_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dddddd;" parent="1" vertex="1">
+          <mxGeometry x="60" y="120" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="l_id" value="序号:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="140" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_id" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="160" y="140" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_shelf" value="货架号:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="580" y="140" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_shelf" value="3-3-309" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="660" y="140" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_name" value="书名:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_name" value="Java Web应用开发模块化案例教程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_author" value="作者:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="580" y="180" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_author" value="王晓燕" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="660" y="180" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_price" value="定价:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="220" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_price" value="46" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_date" value="出版日期:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_date" value="2025/02/01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="l_isbn" value="ISBN:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;fontColor=#ffffff;strokeColor=#0056b3;" parent="1" vertex="1">
+          <mxGeometry x="580" y="220" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="i_isbn" value="9787302681663" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="660" y="220" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="btn_submit" value="确定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;cursor=pointer;" parent="1" vertex="1">
+          <mxGeometry x="490" y="260" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2_title" value="现存图书列表" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#0056b3;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="table_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#dddddd;" parent="1" vertex="1">
+          <mxGeometry x="60" y="330" width="960" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="th_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0056b3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="330" width="960" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_1" value="序号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="330" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_2" value="货架号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="330" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_3" value="书名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="330" width="300" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_4" value="定价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="330" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_5" value="作者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="330" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_6" value="出版日期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="330" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_7" value="ISBN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="330" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="th_8" value="操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="330" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;borderBottom=1;borderBottomColor=#eeeeee;" parent="1" vertex="1">
+          <mxGeometry x="60" y="365" width="960" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_1" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="365" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_2" value="3-4-509" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="365" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_3" value="Java Web程序设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="365" width="300" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_4" value="59.8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="365" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_5" value="郭克华" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="365" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_6" value="2025-03-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="365" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_7" value="9787302679981" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="365" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr1_btn" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#cccccc;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="930" y="372.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="line1" value="" style="line;strokeWidth=1;html=1;strokeColor=#eeeeee;" parent="1" vertex="1">
+          <mxGeometry x="60" y="400" width="960" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_1" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="401" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_2" value="3-6-309" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="401" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_3" value="Java Web应用开发——SpringBoot..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="401" width="300" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_4" value="52" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="401" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_5" value="齐洋" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="401" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_6" value="2025-03-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="401" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_7" value="9787302683216" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="401" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr2_btn" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#cccccc;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="930" y="408.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="line2" value="" style="line;strokeWidth=1;html=1;strokeColor=#eeeeee;" parent="1" vertex="1">
+          <mxGeometry x="60" y="436" width="960" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f4ff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="437" width="960" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_1" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="437" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_2" value="3-3-309" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="437" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_3" value="Java Web应用开发模块化案例教程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="437" width="300" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_4" value="46" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="437" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_5" value="王晓燕" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="437" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_6" value="2025-02-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="437" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_7" value="9787302681663" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="437" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tr3_btn" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#cccccc;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="930" y="444.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="line3" value="" style="line;strokeWidth=1;html=1;strokeColor=#eeeeee;" parent="1" vertex="1">
+          <mxGeometry x="60" y="472" width="960" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="annotation" value="鼠标经过高亮特效&#xa;(DOM style.backgroundColor)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;position2=0;size=20;position=0.15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="470" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
